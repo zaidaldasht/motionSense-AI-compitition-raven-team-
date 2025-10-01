@@ -1,13 +1,35 @@
-this our work-raven team-where we built a mobile application to show 
-our ML model resault which will be part of bigger project to help blind people
+Raven Team Project
 
-the model and data in machine learning folder
+This repository contains our work as the Raven Team, developed for a competition where the main goal was to train an AI model that can recognize human movements using smartphone sensors.
+
+📂 Model and Data: Available inside the machine_learning folder.
+
+💡 Competition Goal
+
+The competition focused on building an AI model by collecting data from smartphone sensors — accelerometer, gyroscope, and magnetometer — and training it to classify different types of movement, such as:
+
+Walking
+
+Running
+
+Turning right
+
+Turning left
+
+Other movement patterns
+
+🛠️ Technologies Used
+
+Flutter – cross-platform mobile application
+
+WebSocket – real-time communication
+
+Django – backend framework and API services
+
+Machine Learning – custom model for movement detection
+
+🔮 Future Updates
+
+In future versions, we aim to apply this system in real-world scenarios, particularly to assist blind and visually impaired individuals by integrating movement detection with accessibility-focused features.
 
 
-the slides:
-https://docs.google.com/presentation/d/11eb_ByMpeguhWOKZCiLMlDT0Hi1hY16U/edit?usp=drivesdk&ouid=109098553557923570782&rtpof=true&sd=true
-
-
-
-the video:
-https://drive.google.com/file/d/1VmTgxTOiNtVzmPkSFpyNak5TiADiLLLu/view?usp=sharing
